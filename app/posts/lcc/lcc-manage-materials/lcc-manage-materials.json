@@ -1,0 +1,14 @@
+{
+  "layout": "post",
+  "permalink": "{{ page.filePathStem | replace('posts/', '') }}/",
+    "override:tags": ["lcc-manage-materials"],
+
+  "tags": ["lcc-manage-materials"],
+  "eleventyComputed": {
+    "eleventyNavigation": {
+      "parent": "lcc-manage-materials",
+      "key": "{{ page.fileSlug }}",
+      "excerpt": "{{ description }}"
+    }
+  }
+}
