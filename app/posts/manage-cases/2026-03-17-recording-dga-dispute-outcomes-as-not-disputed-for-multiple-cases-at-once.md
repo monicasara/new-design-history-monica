@@ -1,6 +1,6 @@
 ---
 title: Recording DGA dispute outcomes as not disputed for multiple cases at once
-date: 2026-03-24
+date: 2026-03-17
 ---
 
 At the moment, legal managers do not record outcomes that are not disputed.

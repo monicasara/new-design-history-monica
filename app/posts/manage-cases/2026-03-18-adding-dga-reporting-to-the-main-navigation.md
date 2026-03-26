@@ -1,6 +1,6 @@
 ---
 title: Adding DGA reporting to the main navigation
-date: 2026-03-25
+date: 2026-03-18
 ---
 
 We previously linked to DGA reporting from within the case list.

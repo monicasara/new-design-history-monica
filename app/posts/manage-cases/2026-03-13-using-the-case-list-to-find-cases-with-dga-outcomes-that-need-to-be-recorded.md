@@ -1,6 +1,6 @@
 ---
 title: Using the case list to find cases with DGA outcomes that need to be recorded
-date: 2026-03-20
+date: 2026-03-13
 ---
 
 Previously, the [DGA reporting section contained its own case list for each police unit and month](/manage-cases/reporting-on-cases-that-failed-dga/).

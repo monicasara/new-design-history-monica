@@ -1,6 +1,6 @@
 ---
 title: Updating a DGA dispute outcome
-date: 2026-03-24
+date: 2026-03-16
 ---
 
 Legal managers can update a DGA dispute outcome before the deadline by clicking ‘change’ on the [DGA reporting page for a case](/manage-cases/viewing-dga-details-for-a-case/).

@@ -1,6 +1,6 @@
 ---
 title: Exporting DGA cases iteration
-date: 2026-03-23
+date: 2026-03-12
 ---
 
 We previously [designed a page for exporting DGA cases](/manage-cases/exporting-dga-cases/).

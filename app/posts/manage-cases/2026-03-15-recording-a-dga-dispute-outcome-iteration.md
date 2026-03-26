@@ -1,6 +1,6 @@
 ---
 title: Recording a DGA dispute outcome iteration
-date: 2026-03-23
+date: 2026-03-15
 ---
 
 We previously [designed a flow for recording a dispute outcome](/manage-cases/recording-a-dispute-outcome/).

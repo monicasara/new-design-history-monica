@@ -1,6 +1,6 @@
 ---
 title: Viewing DGA details for a case
-date: 2026-03-20
+date: 2026-03-14
 ---
 
 We added a "DGA reporting" page within each case.

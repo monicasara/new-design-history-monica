@@ -1,6 +1,6 @@
 ---
 title: DGA reporting month page iteration
-date: 2026-03-10
+date: 2026-03-11
 ---
 
 We previously [designed a page to view the DGA reporting month](/manage-cases/reporting-on-cases-that-failed-dga/).
